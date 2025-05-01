@@ -31,7 +31,7 @@ Built an interactive Power BI dashboard to visualize retail KPIs and performance
 ## 📜 Certifications
 
 - ✅ Data Analytics Certificate – Udemy  
-- 🧾 [LinkedIn Profile](https://www.linkedin.com/in/aamir-sohail-data-analyst)
+- 🧾 [LinkedIn Profile](https://www.linkedin.com/in/aamir-sohail-da/)
 
 ---
 
