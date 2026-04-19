@@ -1,92 +1,65 @@
-Hi there, I'm Aamir Sohail!
+# Aamir Sohail — Data Analyst
 
-Aspiring Data Analyst with a strong foundation in SQL, Excel, Power BI, and Python. With a background in claim settlement, I bring industry expertise from the insurance and healthcare sector — now transforming data into impactful insights.
-
----
-
-## 💼 Projects
-
-### 🛒 [Customer Sales Behavior Analysis](https://github.com/a4aamirsohail/Customer-Sales-Behavior-Analysis)
-Analyzed customer purchasing patterns to support marketing and sales strategies using Python (Pandas & Matplotlib).
-
-### 🏬 [Retail Dashboard Project](https://github.com/a4aamirsohail/Retail-dashboard-project)
-Built an interactive Power BI dashboard to visualize retail KPIs and performance trends.
+Data Analyst with 2+ years of full-time experience in insurance and healthcare analytics at Medi Assist Insurance TPA Pvt Ltd. Skilled in SQL, Python, Power BI, Excel, and AI-assisted analytical workflows. Domain expertise in claims operations, fraud detection, KPI reporting, and dashboard development.
 
 ---
 
-Skills
+## Projects
 
-SQL
+### [Insurance Claim Fraud Detection](https://github.com/a4aamirsohail/Insurance-Claim-Fraud-Detection-/tree/main/github_repo)
+End-to-end fraud detection pipeline on a group health insurance dataset spanning 5 Indian corporates — 13,397 members and 6,170 claims built on real Medi Assist TPA data structures. Used Claude AI for data profiling and fraud pattern explanation, Python for data cleaning and EDA, SQL for 30+ fraud detection queries including window functions and VIEWs, and Power BI for a 5-page interactive dashboard with DAX measures. Identified Rs.12L+ in suspicious flagged claims.
 
-.Joins (Inner, Left, Right, Full)
-.Subqueries
-.Window Functions
-.Common Table Expressions (CTEs)
-.Query Optimization
+Tools: Python · SQL · Power BI (DAX) · Claude AI · GitHub
 
-Excel
+### [Zomato Data Analysis Dashboard](https://github.com/a4aamirsohail/Zomato-AI-Python-SQL-Power-BI-Excel.git)
+Full-stack analysis of Zomato food delivery data — preprocessing with ChatGPT and Excel, SQL cleaning and KPI queries (Total Revenue, Top 5 Restaurants, customer segmentation using CASE WHEN), Python EDA revealing Apr–Aug sales peaks and a sharp Oct–Nov dip, and a Power BI dashboard with DAX measures for Avg Order Value, Total Sales, and Last Order Date. Identified 38% cancellation rate and Main Course dominating revenue at Rs.372.8K.
 
-.Pivot Tables & Pivot Charts
-.VLOOKUP, XLOOKUP
-.INDEX & MATCH
-.Conditional Formatting
+Tools: SQL (SQL Server) · Python (Pandas, Seaborn, Matplotlib) · Power BI (DAX) · Excel · ChatGPT
 
-Data Validation
+### [Customer Sales Behavior Analysis](https://github.com/a4aamirsohail/Customer-Sales-Behavior-Analysis)
+Analysed customer purchasing patterns to uncover actionable insights for marketing and sales strategy using Python with Pandas and Matplotlib.
 
-.Power Query & Power Pivot
-.Power BI
-.Data Connection & Transformation (Power Query)
-.Data Modeling
-.DAX Formulas
-.Data Visualization & Dashboarding
-.Performance Optimization
-.Power BI Service
+Tools: Python (Pandas, Matplotlib)
 
-Python
+### [Retail Dashboard](https://github.com/a4aamirsohail/Retail-dashboard-project)
+Built an interactive Power BI dashboard to visualise retail KPIs and performance trends across product categories, regions, and time periods.
 
-.Pandas & NumPy
-.Matplotlib & Seaborn
-.File Handling (CSV, Excel, JSON)
-.Error Handling & Exception Management
-
-Soft Skills
-
-.Communication
-.Problem Solving
-.Business Insight
+Tools: Power BI
 
 ---
 
- Certifications
+## Skills
 
-- ✅ Data Analytics Certificate – Udemy  
-  
+**SQL** — Joins (Inner, Left, Right, Full), Subqueries, Window Functions, CTEs, Query Optimisation, SQL Server
+
+**Python** — Pandas, NumPy, Matplotlib, Seaborn, File Handling (CSV, Excel, JSON), EDA, Data Cleaning
+
+**Power BI** — Data Modelling, DAX Formulas, Power Query, Data Visualisation, Conditional Formatting, Power BI Service
+
+**Excel** — Pivot Tables, VLOOKUP, XLOOKUP, INDEX & MATCH, Conditional Formatting, Power Query, Power Pivot
+
+**AI & Automation** — Claude AI, ChatGPT, Prompt engineering for analytical workflows, AI-assisted insight generation
+
+**Domain** — Insurance & Healthcare Analytics, Claims Operations, Fraud Detection, Business Intelligence, KPI Reporting, Dashboard Development
 
 ---
 
- Let's Connect
+## Certifications
 
-- Email: sohailaamir860@gmail.com  
-- GitHub: [a4aamirsohail](https://github.com/a4aamirsohail)
-- [LinkedIn Profile](https://www.linkedin.com/in/aamir-sohail-da/) 
-- Patna, Bihar, India
+- Tata Data Visualisation: Empowering Business with Effective Insights — Tata Consultancy Services (Forage)
+- Complete Data Analyst Bootcamp: From Basics to Advanced — KRISHAI Technologies Pvt Ltd
+- Data Analytics Certificate — Udemy
 
 ---
 
- Data tells a story — and I'm here to help translate it into action.
+## Connect
 
+Email: sohailaamir860@gmail.com  
+GitHub: [a4aamirsohail](https://github.com/a4aamirsohail)  
+LinkedIn: [aamir-sohail-da](https://www.linkedin.com/in/aamir-sohail-da/)  
+Location: Patna, Bihar, India  
+Twitter / X: [@a4aamir_](https://twitter.com/a4aamir_)
 
-<!--
-**a4aamirsohail/a4aamirsohail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Data tells a story — I help translate it into decisions.*
